@@ -1,2 +1,2 @@
 # AluraBook
-Terceiro site criador com As aulas da alura. responsividade com mobile-first.
+Terceiro Site Feito com as aulas da Alura, responsividade com mobile-first.
